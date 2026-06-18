@@ -13,8 +13,8 @@ Uma análise da evolução do mercado de transferências no futebol(2010-2026) e
 ---
 
 ### Bases de dados
-- Dataset transferências - 'https://www.kaggle.com/datasets/sergionefedov/global-football-transfer-market-2010-2026?resource=download'  
-- Dataset Macro - 'https://ourworldindata.org/grapher/gdp-per-capita-worldbank?time=2010..latest'
+- Dataset transferências - `https://www.kaggle.com/datasets/sergionefedov/global-football-transfer-market-2010-2026?resource=download`  
+- Dataset Macro - `https://ourworldindata.org/grapher/gdp-per-capita-worldbank?time=2010..latest`
 
 ---
 
