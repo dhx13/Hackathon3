@@ -1,13 +1,12 @@
-## *Hackathon 3 - Melhor Grupo*
+## *Hackathon 3 - Grupo 6*
 
 #### Membros
-
 - Bernardo Toffoli Neves
 - Daniel Huber
 - Lucas ALbuquerque Marum
 - João Augusto Santos Alves
-
 ---
+
 ### Tema do Projeto
 Uma análise da evolução do mercado de transferências no futebol(2010-2026) e investigação das possíveis relações com a macroeconomia e a riqueza das nações.
 
