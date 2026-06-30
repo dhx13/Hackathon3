@@ -3,7 +3,7 @@
 #### Membros
 - Bernardo Toffoli Neves
 - Daniel Huber
-- Lucas ALbuquerque Marum
+- Lucas Albuquerque Marum
 - João Augusto Santos Alves
 ---
 
